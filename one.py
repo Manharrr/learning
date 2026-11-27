@@ -61,3 +61,10 @@ print()
 
 student1.update_course("Python Full Stack")
 student1.display_details()
+
+
+import datetime
+
+today = datetime.date.today()
+
+print(today)
